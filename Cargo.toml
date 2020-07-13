@@ -1,0 +1,11 @@
+[package]
+name = "cargo-semantic"
+description = "cargo plugin to automate semantic releases"
+homepage = "https://github.com/SirWindfield/cargo-semantic/"
+repository = "https://github.com/SirWindfield/cargo-semantic/"
+documentation = "https://docs.rs/cargo-semantic"
+license = "MIT"
+keywords = ["cargo", "semantic", "semantic-release", "release", "commitizen"]
+version = "0.0.0"
+authors = ["Sven Lechner <SirWindfield@users.noreply.github.com>"]
+edition = "2018"
